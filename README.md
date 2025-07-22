@@ -1,2 +1,2 @@
 # connect-four
-Connect Four game using Pygame library and minimax algorithm with alpha-beta pruning
+Connect Four game against AI player using Pygame library and minimax algorithm with alpha-beta pruning

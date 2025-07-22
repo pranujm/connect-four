@@ -1,2 +1,2 @@
 # connect-four
-Connect Four game using Pygame
+Connect Four game using Pygame library
